@@ -17,5 +17,11 @@ I changed them to fit the theme of money and what something cost.
 Finally, I have both the left and right side faded-in with a gradient map to make it seem like conflicting thoughts, and added a paper crinkle overlay because I thought
 it would look cool.
 
-Work Cited:
+Asset List:
 
+"Mickey Mouse" - Fair Use, intentions of Satire
+"Money" - Free to use under the Unsplash License
+"Empty Wallet" - Free to use under the Unsplash License
+"Globe" - Free to use under the Unsplash License
+"Papere Crinkle" - I purchased and own overlay graphics, that are free to use Non-Commercially or Commercially.
+"(FONT) Harlow Solid Italic" - Free to use under the Adobe License

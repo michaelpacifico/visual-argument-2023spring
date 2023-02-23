@@ -27,6 +27,6 @@ Asset List:
 
 "Globe" - Free to use under the Unsplash License
 
-"Papere Crinkle" - I purchased and own overlay graphics, that are free to use Non-Commercially or Commercially.
+"Paper Crinkle 19" - I purchased and own overlay graphics, that are free to use Non-Commercially or Commercially.
 
 "(FONT) Harlow Solid Italic" - Free to use under the Adobe License
